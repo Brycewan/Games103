@@ -6,7 +6,7 @@
 <img src="figure/rigidbody.gif" alt="explicit Integration">
 
 <h4>Shape Matching</h4>
-<img src="figure/PBD.gif" alt="Position-Based Dynamics">
+<img src="figure/shapematching.gif" alt="shape matching">
 </div>
 
 
