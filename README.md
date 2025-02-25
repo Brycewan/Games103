@@ -16,6 +16,8 @@
 ### Soft Body
 <div align=center>
 #### Finite Element Method (FEM)
+</div>
+<div align=center>
 ![](figure/softbody.gif)
 </div>
 
