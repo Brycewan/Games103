@@ -1,21 +1,21 @@
 # Games103-homework
 
-# Rigid Body
+### Rigid Body
 
 
 
-# Cloth
+### Cloth
 
-### Implicit Integration
+##### Implicit Integration
 ![](figure/implicit_cloth.gif)
 
 
-### Position-Based Dynamics (PBD)
+##### Position-Based Dynamics (PBD)
 ![](figure/PBD.gif)
 
-# Soft Body
+### Soft Body
 
-### Finite Element Method (FEM)
+##### Finite Element Method (FEM)
 ![](figure/softbody.gif)
 
 
