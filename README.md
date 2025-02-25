@@ -7,10 +7,10 @@
 ### Cloth
 <div align="center">
 <h4>Implicit Integration</h4>
-![](figure/implicit_cloth.gif)
+<img src="figure/implicit_cloth.gif" alt="Implicit Integration">
 
 <h4>Position-Based Dynamics (PBD)</h4>
-![](figure/PBD.gif)
+<img src="figure/PBD.gif" alt="Position-Based Dynamics">
 </div>
 
 ### Soft Body
