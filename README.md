@@ -5,19 +5,15 @@
 
 
 ### Cloth
-<div align=center>
 #### Implicit Integration
 ![](figure/implicit_cloth.gif)
 
 #### Position-Based Dynamics (PBD)
 ![](figure/PBD.gif)
-</div>
 
 ### Soft Body
-<div align=center>
+<div align="center">
 #### Finite Element Method (FEM)
-</div>
-<div align=center>
-![](figure/softbody.gif)
+<img src="figure/softbody.gif" alt="Finite Element Method">
 </div>
 
