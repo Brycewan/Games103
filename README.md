@@ -13,7 +13,7 @@
 
 ### Soft Body
 <div align="center">
-#### Finite Element Method (FEM)
+<h4>Finite Element Method (FEM)</h4>
 <img src="figure/softbody.gif" alt="Finite Element Method">
 </div>
 
